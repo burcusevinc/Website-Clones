@@ -1,0 +1,40 @@
+.container {
+    text-align: center;
+    margin: 0 80px;
+}
+.google-logo img {
+    width: 351px;
+    height: 113px;
+}
+
+.search-area {
+    background-color: #EEEEEE;
+}
+
+.search-area p {
+    margin: 0;
+}
+
+.footer-area {
+    margin-top: 3px;
+    display: flex;
+    flex-direction: row;
+}
+.footer-area table {
+    width: 100%;
+}
+.footer-area table tr td {
+    background-color: #7EE5DA;
+}
+.footer-area table tr .table1 {
+    width: 37%;
+}
+
+.footer-area table tr .table2, .table3 {
+font-size: 13px;
+}
+
+.footer2-area {
+    margin-top: 10px;
+    font-size: 13px;
+}
